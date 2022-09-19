@@ -19,4 +19,3 @@ Once you have PDFKIT install run the following command
 
     python convert_to_pdf.py
 
-Please follow [My Blog](http://myblog.karansawhney.com/).
